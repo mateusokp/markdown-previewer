@@ -1,0 +1,20 @@
+.card {
+    background: rgb(24, 24, 24);
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    width: 80%;
+    height: 50%;
+    padding: 1rem;
+    color: black;
+    align-self: center;
+}
+
+.light {
+    background: rgb(245, 245, 245);
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(61, 61, 61, 0.25);
+    height: 50%;
+    padding: 1rem;
+    color: black;
+    align-self: center;
+}
